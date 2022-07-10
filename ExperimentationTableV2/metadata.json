@@ -1,0 +1,8 @@
+{
+    "name": "ExperimentationTableV2",
+    "creator": "Cakend",
+    "entry": "index.js",
+    "description": "Complete remake of the Old Module for latest ct version (2.1.4)",
+    "version": "1.0.0",
+    "requires": ["Vigilance", "RequestV2"]
+}
